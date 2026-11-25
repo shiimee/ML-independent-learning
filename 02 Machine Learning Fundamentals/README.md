@@ -1,6 +1,6 @@
 # 02 Machine Learning Fundamentals
 
-Supervised learning from first principles, with the maths written out for each model.
+Supervised learning from first principles.
 
 - **Linear regression:** univariate and multiple linear regression, the squared-error cost function, gradient descent
 - **Training in practice:** feature scaling, checking convergence with learning curves, choosing a learning rate, feature engineering
